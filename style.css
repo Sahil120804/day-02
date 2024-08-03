@@ -1,0 +1,23 @@
+img{
+    height:75px;
+    width:325px;
+}
+
+.text1{
+    color: rgb(127, 127, 158);
+}
+.img1{
+    height:350px;
+    width:700px;
+
+}
+.container1{
+    margin-top: 50px;
+    background-color: aquamarine;
+}
+.s{
+    margin-top: 50px;
+    margin-left: 50px ;
+    color: rgb(114, 197, 224);
+
+}
